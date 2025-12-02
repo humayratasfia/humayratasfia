@@ -18,8 +18,3 @@
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=humayratasfia&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=humayratasfia&icon=0&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
