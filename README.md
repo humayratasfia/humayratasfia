@@ -1,5 +1,5 @@
 ## Hey there!🍃 I'm Humayra Tasfia. Nice to have you here! ദ്ദി◝ ⩊ ◜.ᐟ
-🍊 I'm currently learning C++
+🍊 I just started learning DSA :D Wish me luck!
 
 
 ### My socials:
